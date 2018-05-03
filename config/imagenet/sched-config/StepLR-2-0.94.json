@@ -1,0 +1,5 @@
+{
+  "name": "StepLR",
+  "step_size": 2,
+  "gamma": 0.94
+}

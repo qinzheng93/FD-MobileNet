@@ -1,0 +1,10 @@
+{
+  "name": "RMSprop",
+  "learning_rate": 0.045,
+  "alpha": 0.9,
+  "epsilon": 1.0,
+  "weight_decay": 0.00004,
+  "momentum": 0.9,
+  "centered": false,
+  "epochs": 100
+}

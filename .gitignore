@@ -1,0 +1,13 @@
+checkpoints
+*.err
+*.log
+*.tar
+**/*.pyc
+**/__pycache__
+results
+
+# Jupter Notebook and Graphviz
+*.ipynb
+.ipynb_checkpoints
+*.gv
+*.pdf

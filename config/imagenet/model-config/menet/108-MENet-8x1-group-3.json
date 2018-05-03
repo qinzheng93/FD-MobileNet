@@ -1,0 +1,9 @@
+{
+  "name": "menet",
+  "block_channels": [108, 216, 432],
+  "block_layers": [3, 7, 3],
+  "init_c": 12,
+  "side_channels": [8, 8, 8],
+  "groups": 3,
+  "init_mode": "fan_out"
+}

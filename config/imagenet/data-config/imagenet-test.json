@@ -1,0 +1,8 @@
+{
+  "name": "ImageNet",
+  "train_root": "/THL5/home/daodao/imagenet/ILSVRC_2012_img_val_withlabel",
+  "valid_root": "/THL5/home/daodao/imagenet/ILSVRC_2012_img_val_withlabel",
+  "batch_size": 256,
+  "num_workers": 8,
+  "transform": "aggressive"
+}

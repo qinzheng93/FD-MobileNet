@@ -1,0 +1,6 @@
+{
+  "name": "shufflenet_group_3",
+  "init_mul": 0.5,
+  "width_mul": 0.5,
+  "init_mode": "fan_out"
+}

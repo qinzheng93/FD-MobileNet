@@ -1,0 +1,4 @@
+{
+  "name": "fast_downsampling_mobilenet",
+  "width_mul": 0.25
+}

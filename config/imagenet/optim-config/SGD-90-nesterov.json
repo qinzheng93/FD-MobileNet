@@ -1,0 +1,8 @@
+{
+  "name": "SGD",
+  "learning_rate": 0.1,
+  "momentum": 0.9,
+  "weight_decay": 0.00004,
+  "nesterov": true,
+  "epochs": 90 
+}
