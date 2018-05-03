@@ -1,7 +1,6 @@
 checkpoints
 *.err
 *.log
-*.tar
 **/*.pyc
 **/__pycache__
 results
