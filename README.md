@@ -74,8 +74,8 @@ Training configuration:
 5. Learning rate starts from 0.1, divided by 10 every 30 epochs;
 6. 4 GPUs.
 
-| Model | MFLOPs|Top-1 Acc. (%) |
-| --- | --- | --- | --- |
+| Model | MFLOPs| Top-1 Acc. (%) |
+| --- | --- | --- |
 | FD-MobileNet 1$\times$ | 144 | 65.3 |
 | FD-MobileNet 0.5$\times$ | 40 | 56.3 |
 | FD-MobileNet 0.25$\times$ | 12 | 45.1 |
